@@ -1,0 +1,51 @@
+.a1{position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    transform: rotate(45deg);
+    top: 50px;
+}
+.a2{position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(68, 31, 31);
+    transform: rotate(-45deg);
+    left: 300px;
+    top: -150px;
+
+}
+.a3{
+    position: relative;
+    width: 250px;
+    height: 200px;
+    background-color: rgb(52, 42, 165);
+    transform: rotate(90deg);
+    left: 550px;
+    top: -350px;
+}
+.a4{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(15, 7, 7);
+    transform: rotate(60deg);
+    top: -150px;
+}
+.a5{
+    position: relative;
+    width: 200px;
+    height: 220px;
+    background-color: rgb(48, 42, 165);
+    transform: rotate(0deg);
+    top: -400px;
+    left: 300px;
+}
+.a6{
+    position: relative;
+    width: 200px;
+    height: 220px;
+    background-color: rgb(42, 165, 159);
+    transform: rotate(0deg);
+    top: -620px;
+    left: 600px;
+}
